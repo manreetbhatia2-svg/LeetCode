@@ -10,4 +10,3 @@ class Solution(object):
 # creating an object which calls the method lengthOfLastWord          
 word = Solution()
 print(word.lengthOfLastWord("All the best  "))
-        
