@@ -1,5 +1,5 @@
 class Solution:
-# creating a method to insert index of the target value in nums in ascending order
+# creating a method to insert index of the target value in nums in ascending order 
     def searchInsert(self, nums: list[int], target: int) -> int:
         for i in range(len(nums)):
             if target in nums:
