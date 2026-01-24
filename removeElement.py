@@ -13,6 +13,6 @@ class Solution(object):
 nums = list(map(int, input("Enter elements of list with space in between them ").split()))
 val = int(input("Enter value to be removed "))
 
-# creating an object
+# creating an object 
 removal = Solution()
 print (removal.removeElement(nums,val))
