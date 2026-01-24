@@ -6,9 +6,7 @@ class Solution(object):
             if val in nums:
                 nums.remove(val)
                 count_of_val +=0
-        # adding underscores in place of the removed elements
-        for j in range(count_of_val):
-            nums = nums + ["_"]
+
         return (nums)
 
 # input nums and val
