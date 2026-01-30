@@ -13,7 +13,7 @@ class Solution:
             nums.pop(len(nums)-1)
         return (f"unique numbers are: {count}\nnums: {nums}")
   
-# creating ibject and giving nums input
+# creating object and giving nums input
 nums = [1,2,3,3,3,4,5,5,8,15,15]
 answer = Solution()
 print(answer.removeDuplicates(nums))
