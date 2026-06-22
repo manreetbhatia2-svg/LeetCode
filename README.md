@@ -1,2 +1,2 @@
 # LeetCode
-Python programs from LeetCode
+Python Programs from LeetCode
